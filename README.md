@@ -1,0 +1,1 @@
+NFT's.Here, I created the NFT token card needed to play this game. NFT tokens can be purchased, sold, or used in other games. As a result, we can sell this card for a high price or use it to play other card games. Thus, we can even play PUBG with Pokemon using NFT tokens!
