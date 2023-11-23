@@ -116,8 +116,10 @@ export const GlobalContextProvider = ({ children }) => {
       }
     };
 
-    fetchGameData();
+    if(contract)fetchGameData();
   }, [contract, updateGameData]);
+
+
 
   //* Handle alerts
   useEffect(() => {

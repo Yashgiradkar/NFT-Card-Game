@@ -24,10 +24,11 @@ export default {
   },
   networks: {
     fuji: {
-      url: 'https://api.avax-test.network/ext/bc/C/rpc',
-      gasPrice: 225000000000,
+      url:'https://avalanche-fuji.infura.io/v3/', // add infura network rpc url
+
+      // gasPrice: 225000000000,
       chainId: 43113,
-      accounts: [process.env.PRIVATE_KEY],
+      accounts: [`your private key`],
     },
     // subnet: {
     //   url: process.env.NODE_URL,
