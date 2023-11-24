@@ -24,7 +24,7 @@ export default {
   },
   networks: {
     fuji: {
-      url:'https://avalanche-fuji.infura.io/v3/', // add infura network rpc url
+      url:'https://avalanche-fuji.infura.io/v3/9c0ea514ddc040059a5426506c2f12ed', // add infura network rpc url
 
       // gasPrice: 225000000000,
       chainId: 43113,
